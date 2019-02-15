@@ -1,2 +1,0 @@
-# ReactJsRefWithHooks
-Created with CodeSandbox
